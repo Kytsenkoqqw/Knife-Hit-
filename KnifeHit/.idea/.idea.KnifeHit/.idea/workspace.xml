@@ -28,14 +28,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Knife.cs" root0="FORCE_HIGHLIGHTING" />
-  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/RotateLog.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Knife.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Knife/SpawnKnife.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Knife/Knife.cs" />
       </list>
     </option>
   </component>
@@ -79,6 +78,8 @@
       <option name="presentableId" value="Default" />
       <updated>1704634108025</updated>
       <workItem from="1704634120186" duration="4801000" />
+      <workItem from="1704810632548" duration="3919000" />
+      <workItem from="1704889657790" duration="4408000" />
     </task>
     <servers />
   </component>
@@ -94,6 +95,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
